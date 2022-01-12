@@ -1,0 +1,38 @@
+﻿/*html {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    /*background-image: linear-gradient(#d6f0ff, white);
+    background-color: #d6f0ff;
+    background-repeat: no-repeat;
+}*/
+
+body {
+
+    font-family: Ebrima;
+}
+
+h1, h2 {
+    text-align:center;
+}
+
+h2 {
+    font-size: 12pt;
+}
+
+#equation {
+    font-family: 'Cambria Math';
+}
+
+#mainContainer {
+    padding: 15px;
+    border: dashed;
+}
+
+#mainParent{
+    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   
+}
